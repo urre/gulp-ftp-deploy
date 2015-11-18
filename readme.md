@@ -6,8 +6,9 @@ This workflow is using the npm package [vinyl-ftp](https://www.npmjs.com/package
 
 ## Setup
 
-1. Add ftp credentials in ```gulp/secrets.json``` (don't forget to ignore this file from your git repo)
-2. Setup paths in ```gulp/config.js```
+1. ```npm install``
+2. Add ftp credentials in ```gulp/secrets.json``` (don't forget to ignore this file from your git repo)
+3. Setup paths in ```gulp/config.js```
 
 ## Usage
 
