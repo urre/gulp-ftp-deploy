@@ -1,0 +1,16 @@
+{
+  "name": "gulp-ftp-deploy",
+  "title": "Gulp FTP Deploy",
+  "url": "http://github.com/urre/gulp-ftp-deploy",
+  "author": "Urban Sandén",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-util": "*",
+    "vinyl-ftp": "*"
+  },
+  "dependencies": {
+    "require-dir": "^0.3.0"
+  }
+}
